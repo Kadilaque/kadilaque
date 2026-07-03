@@ -34,15 +34,6 @@ Construo aplicações do zero — do banco de dados à interface — e jogos 2D 
 ![Godot](https://img.shields.io/badge/Godot-1a1a2b?style=flat-square&logo=godotengine&logoColor=a78bfa)
 ![Git](https://img.shields.io/badge/Git-1a1a2b?style=flat-square&logo=git&logoColor=a78bfa)
 
-## 📊 GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Kadilaque&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadilaque&layout=compact&theme=midnight-purple&hide_border=true&locale=pt-br)
-
-</div>
-
 ---
 
 <div align="center">
